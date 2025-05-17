@@ -1,0 +1,17 @@
+{
+  "name": "MiniDi",
+  "displayName": "MiniDi",
+  "version": "1.0.0",
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "",
+      "path": "Samples~/"
+    }
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "MRashad"
+  }
+}
