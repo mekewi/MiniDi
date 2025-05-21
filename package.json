@@ -1,17 +1,19 @@
 {
-  "name": "MiniDi",
-  "displayName": "MiniDi",
+  "name": "com.rashad.minidi",
+  "displayName": "Mini Di",
   "version": "1.0.0",
-  "samples": [
-    {
-      "displayName": "Samples",
-      "description": "",
-      "path": "Samples~/"
-    }
-  ],
   "dependencies": {
   },
   "author": {
-    "name": "MRashad"
-  }
+    "name": "Mohamed Rashad",
+    "email": "m.rashad.sm@gmail.com",
+    "url": "https://www.linkedin.com/in/mohamedmrashad/"
+  },
+  "samples": [
+    {
+      "displayName": "Mini DI",
+      "description": "Mini and lightweight Dependency injection for unity",
+      "path": "Samples~/"
+    }
+  ]
 }
